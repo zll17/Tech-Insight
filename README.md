@@ -4,6 +4,8 @@ Great blogs on technology, startup and innovation. This is the list that powers 
 Join the [Slack Community](http://productchase-slack.herokuapp.com/)
 [![Slack Status](http://productchase-slack.herokuapp.com/badge.svg)](http://productchase-slack.herokuapp.com/) or [Wechat Group ![](./wechat.png)](http://productchaseapp.herokuapp.com/articles/subscribe)
 
+## Information Technology
+
 ## General
 - Harvard Business Review: https://hbr.org/
 - Medium
